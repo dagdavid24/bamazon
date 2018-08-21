@@ -10,6 +10,7 @@ This application renders the use of MySQL and Node.js to create a mock amazon ap
 <img width="484" alt="screen shot 2018-08-19 at 8 01 42 pm" src="https://user-images.githubusercontent.com/39019123/44314939-d1aa2c00-a3ec-11e8-856a-264c019a8637.png">
 
 #bamazonManager
+
 The bamazonManager.js allows users to select between 4 different options (view products, view low inventory, add to existing inventory, add new product)
 
 <img width="293" alt="screen shot 2018-08-21 at 3 10 54 pm" src="https://user-images.githubusercontent.com/39019123/44423606-8579fb80-a554-11e8-8968-66a1f94b1257.png">
